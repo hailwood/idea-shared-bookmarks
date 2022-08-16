@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.hailwood.ideasharedbookmarks.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.hailwood.ideasharedbookmarks.MyBundle
 
 class MyApplicationService {
 
